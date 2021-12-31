@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my Page! I'm Samstiles, an enthusiastic & energetic developer from Nigeria
 <!--
 **Samstiles-Dev/Samstiles-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
