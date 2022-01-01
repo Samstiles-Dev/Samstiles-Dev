@@ -1,6 +1,15 @@
-<b> Hi there,</b> 👋
+<b>Hi there,</b> 👋
 
-<b>Welcome to my Page! I'm Samstiles, an enthusiastic & energetic Full Stack Developer from <img src='https://user-images.githubusercontent.com/43145862/147831824-09825466-7265-426c-b893-f94d7f9c246d.jpg' width='30px'>Nigeria</b>
+Welcome to my Page! I'm Samstiles, an enthusiastic & energetic Full Stack Developer from <img src='https://user-images.githubusercontent.com/43145862/147831824-09825466-7265-426c-b893-f94d7f9c246d.jpg' width='30px'>Nigeria
+---
+- 🔭 I’m currently exploring new things in technology.😄
+- 👯 I’m looking to collaborate on with other Software Developers.
+- 🌱 Goals: Contribute more to open source projects.
+
+<b>Connect with me</b> 
+
+<b>Technology Stack:</b>
+
 <!--
 **Samstiles-Dev/Samstiles-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
