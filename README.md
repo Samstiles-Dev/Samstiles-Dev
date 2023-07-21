@@ -1,6 +1,6 @@
 <b>Hi there,</b> 👋
 ---
-<b>Welcome to my Page! I'm Samstiles, an enthusiastic & energetic Full Stack Developer from <img src='https://user-images.githubusercontent.com/43145862/147831824-09825466-7265-426c-b893-f94d7f9c246d.jpg' width='30px'> Nigeria</b>
+<b>Welcome to my Page! I'm Samstiles, an enthusiastic & energetic Backend Developer from <img src='https://user-images.githubusercontent.com/43145862/147831824-09825466-7265-426c-b893-f94d7f9c246d.jpg' width='30px'> Nigeria</b>
 
 - 🔭 I’m currently exploring new things in technology.😄
 - 👯 I’m looking to collaborate on with other Software Developers.
